@@ -4,7 +4,7 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
-@media (max-width: 360px){
+@media (max-width: 480px){
 .hero{
     width: 100%;
     background: linear-gradient(45deg,#010758,#490d61);
